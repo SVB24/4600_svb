@@ -4,13 +4,19 @@
 
 In this project, we have a shell that inputs the following commands:
 
---ls
---cd
---mkdir
---rmdir
---mv
---echo
---env
+-ls
+
+-cd
+
+-mkdir
+
+-rmdir
+
+-mv
+
+-echo
+
+-env
 
 ## Brief descriptions of commands
 
