@@ -30,11 +30,13 @@ Use: ls
 
 This command is used to change directories.
 
-Use: cd [takes user back to the home directory]
+Use:
+
+- cd [takes user back to the home directory]
    
-   : cd <Directory_name> [takes user into the directory with that name, as long as it is accessible from within the present working directory]
+- cd <Directory_name> [takes user into the directory with that name, as long as it is accessible from within the present working directory]
    
-   : cd .. [takes user back by one directory (parent directory)]
+- cd .. [takes user back by one directory (parent directory)]
 
 ### -mkdir-
 
